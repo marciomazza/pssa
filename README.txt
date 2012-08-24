@@ -1,7 +1,7 @@
 pssa
 ====
 
-Curso de GitHub
+CURSO DE GITHUB
 1 - Verde é Vida, plante um "Reco"
 2
 3
