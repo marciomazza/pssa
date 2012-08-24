@@ -9,7 +9,7 @@ Curso de GitHub
 5
 6 Sesostris Vieira
 7
-8
+Herson Rodrigues
 9
 10
 11
